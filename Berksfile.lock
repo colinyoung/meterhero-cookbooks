@@ -2,6 +2,7 @@ DEPENDENCIES
   nodejs
   postgres
   redisio
+  windows (~> 1.34)
 
 GRAPH
   7-zip (1.0.2)
